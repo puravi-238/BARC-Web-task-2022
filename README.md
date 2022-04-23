@@ -21,6 +21,7 @@ Available languages: C, C++ (without STL), python, JAVA.
 
 
 #Refrence Materials
+
 you could refer anything. the ultimate goal is to learning things. but make sure to be honest in yourself.
 here are some link.....We suggest to look it up if you are new to web dev....
 1. HTML and CSS : https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
@@ -29,6 +30,7 @@ here are some link.....We suggest to look it up if you are new to web dev....
 
 
 #Submission Format
+
 We strongly encourage you to upload all your program files (appropriately named) and commit all the changes in respective github repositories and share the links to the following google document:
 
 All the very Best!!
